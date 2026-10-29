@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codemindscreative.com/sitemap.xml
